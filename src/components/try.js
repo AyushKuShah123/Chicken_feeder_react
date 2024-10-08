@@ -50,7 +50,7 @@ const Try = () => {
 
     return (
         <div id="container" style={containerStyle}>
-            <h1 style={headingStyle}>Chicken Feeder Monitor</h1>
+            <h1 style={headingStyle}>PET FEEDER MONITOR</h1>
             <div className="subheading" style={subheadingStyle}>Status Updates</div>
 
             {/* Food Status */}
