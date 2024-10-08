@@ -124,7 +124,7 @@ const progressBarStyle = {
 };
 
 const imageStyle = {
-    width: '80%',
+    width: '75%',
     marginTop: '30px',
     borderRadius: '10px',
     transition: 'transform 0.3s, boxShadow 0.3s',
