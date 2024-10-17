@@ -72,7 +72,7 @@ const Try = () => {
             {/* Feeder Image */}
             <img
                 //src="https://images.unsplash.com/photo-1583501534424-550886b77a92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc0M3wwfDF8c2VhcmNofDF8fHRyYWNrJTIwYW5kJTIwY2hpY2tlbnxlbnwwfHx8fDE2Mzg2ODk5MzE&ixlib=rb-1.2.1&q=80&w=1080"
-                src="/feed.jpeg" // Local image path in the public folder
+                src="/pet.jpeg" // Local image path in the public folder
                 alt="Chicken Feeder"
                 id="feederImage"
                 style={imageStyle}
