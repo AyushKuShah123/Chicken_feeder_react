@@ -19,7 +19,7 @@ const Try = () => {
                 const latestFeed = data.feeds[0];
 
                 // Update food level
-                const foodLvl = latestFeed.field1 * 10;
+                const foodLvl = 100-(latestFeed.field1 * 10);
                 setFoodLevel(Math.min(foodLvl, 100));
 
                 if (foodLvl <= 20) {
